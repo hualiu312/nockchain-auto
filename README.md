@@ -42,7 +42,7 @@
 ### 下载脚本
 
 ```bash
-wget https://github.com/hualiu312/nockchain-auto.sh
+wget https://github.com/hualiu312/nockchain-auto/releases/download/nockchain/nockchain-auto.sh
 chmod +x nockchain-auto.sh
 ```
 
